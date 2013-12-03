@@ -50,6 +50,9 @@ gem 'bcrypt-ruby', '~> 3.1.2'  #modified
 # gem 'debugger', group: [:development, :test]
 
 ###modified###
+
+gem 'protected_attributes'
+
 group :test, :development do
   gem 'rspec-rails'
   gem 'guard-rspec'
