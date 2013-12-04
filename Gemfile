@@ -52,6 +52,7 @@ gem 'bcrypt-ruby', '~> 3.1.2'  #modified
 ###modified###
 
 gem 'protected_attributes'
+gem 'gravatar_image_tag'
 
 group :test, :development do
   gem 'rspec-rails'
